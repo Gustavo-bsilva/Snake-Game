@@ -1,4 +1,30 @@
+<div align="center">
+  <img src="https://i.imgur.com/RmgbzIy.gif" alt="Snake Game" height="300px">
+</div>
 
-![Snake Game](https://i.imgur.com/RmgbzIy.gif)
-# Snake-Game
-O Famoso jogo da cobrinha, implementado a minha maneira em Python.
+# Snake Game
+
+Esse jogo é o primeiro projeto feito em Python por mim, estou começando a aprender então desenvolvi esse jogo para começar a entender a linguagem.
+
+### **O Projeto**
+
+É o jogo da cobrinha, com algumas coisas a mais, ou não, ainda não decidi, mas é o jogo da cobrinha.
+
+### Funcionalidades
+
+- [ ] Abrir uma janela
+- [ ] Desenhar snake
+- [ ] Desenhar fruta
+- [ ] Gerar fruta em lugar aleatório
+- [ ] Movimentação da cobra
+- [ ] Rabo da cobra acompanhando
+- [ ] Matar cobra ao colidir com o corpo
+- [ ] Limitar ou teletransportar cobra na borda do jogo
+- [ ] Gerar fruta onde a cobra não está ocupando
+- [ ] Melhorar os sprites da cobra e da fruta
+
+### Como rodar o projeto
+
+Clone esse repositório
+
+Rode o comando ```python main.py```
