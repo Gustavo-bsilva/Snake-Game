@@ -12,12 +12,12 @@ Esse jogo é o primeiro projeto feito em Python por mim, estou começando a apre
 
 ### Funcionalidades
 
-- [ ] Abrir uma janela
-- [ ] Desenhar snake
-- [ ] Desenhar fruta
-- [ ] Gerar fruta em lugar aleatório
-- [ ] Movimentação da cobra
-- [ ] Rabo da cobra acompanhando
+- [x] Abrir uma janela
+- [x] Desenhar snake
+- [x] Desenhar fruta
+- [x] Gerar fruta em lugar aleatório
+- [x] Movimentação da cobra
+- [x] Rabo da cobra acompanhando
 - [ ] Matar cobra ao colidir com o corpo
 - [ ] Limitar ou teletransportar cobra na borda do jogo
 - [ ] Gerar fruta onde a cobra não está ocupando
